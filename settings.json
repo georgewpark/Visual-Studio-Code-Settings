@@ -1,4 +1,5 @@
 {
+    "window.zoomLevel": 0,
     "workbench.colorTheme": "Atom One Dark",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "none",
@@ -132,8 +133,8 @@
         "slategrey",
         "springgreen",
         "steelblue",
+        "visualising",
         "whitesmoke",
         "yellowgreen"
-    ],
-    "window.zoomLevel": 0
+    ]
 }
