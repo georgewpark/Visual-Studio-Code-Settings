@@ -64,6 +64,7 @@
         "dimgray",
         "dimgrey",
         "dodgerblue",
+        "downsampled",
         "dribbble",
         "firebrick",
         "flexbox",
@@ -73,6 +74,8 @@
         "georgepark",
         "georgewpark",
         "ghostwhite",
+        "gifs",
+        "giphy",
         "greenyellow",
         "hotpink",
         "indianred",
@@ -114,8 +117,11 @@
         "mintcream",
         "mistyrose",
         "morty",
+        "msapplication",
         "navajowhite",
         "netlify",
+        "noopener",
+        "noreferrer",
         "oldlace",
         "olivedrab",
         "orangered",
@@ -143,6 +149,8 @@
         "trello",
         "visualising",
         "whitesmoke",
-        "yellowgreen"
-    ]
+        "yellowgreen",
+        "youtube"
+    ],
+    "javascript.updateImportsOnFileMove.enabled": "always"
 }
